@@ -10,6 +10,10 @@
   font-size: 36px;
 }
 
+.adjust-font-size {
+  font-size: 36px;
+}
+
 #div2 {
   background-color: hsl(120, 73%, 75%);
   font-size: 24px;
